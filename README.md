@@ -1,1 +1,1 @@
-# Downlaod the files using the "download zip option"
+# Download the files using the "download zip option"
